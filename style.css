@@ -1,0 +1,10 @@
+:root
+{    --cor-de-fundo:#EBECEE;}
+body { background-color: var(--cor-de-fundo);}
+
+h1 {
+    color: rgb(0, 0, 0);
+    background-color: rgb(107, 0, 107);
+    padding: 20px;
+    text-align: center;
+}
