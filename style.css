@@ -1,6 +1,6 @@
 :root{
---cor-de-fundo:#EBECEE;
---branco:#ffffff;
+--cor-de-fundo:#a0a0a0;
+--branco:#c2c2c2;
 --laranja:#EB9B00;
 --azul-degrade: linear-gradient(97.54deg, #0f70ca 35.49%, #0e4e79 165.37%);
 --fonte-principal: "Poppins";
@@ -111,3 +111,27 @@ display: inline-block;
 .swiper-slide img {
     width: 65%;
 }
+
+.card-descricao {
+    display: flex;
+    justify-content:space-between;
+    margin-bottom: 0,5em;
+}
+.card-botoes {
+    display: flex;
+justify-content: space-between;
+}
+
+.botoes {
+    display: flex;
+}
+
+.card {
+    background-color: #adabab;
+    border-radius:;
+    width:;
+    text-align: center;
+}
+
+
+
