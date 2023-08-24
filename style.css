@@ -128,10 +128,13 @@ justify-content: space-between;
 
 .card {
     background-color: #adabab;
-    border-radius:;
-    width:;
+    border-radius:10.5px;
+    width:30;
     text-align: center;
 }
 
-
+.botoes-item
+{
+    margin: 10px 15px;
+}
 
